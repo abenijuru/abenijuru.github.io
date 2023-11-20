@@ -301,9 +301,12 @@ textarea {
     border-radius: 2px;
   }
   main {
-    height: 125em;
+    height: 145em;
     background: #ddeedd;
     margin-bottom: -5em;
+  }
+  .home {
+    height: 85em !important;
   }
   .container_carousel {
     height: 52em;
