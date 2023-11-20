@@ -306,7 +306,7 @@ textarea {
     margin-bottom: -5em;
   }
   .details {
-    height: 83em;
+    height: 83em !important;
   }
   .home {
     height: 85em !important;
