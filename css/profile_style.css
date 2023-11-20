@@ -315,6 +315,9 @@ textarea {
     height: 62em;
     background: #ecfee4;
   }  
+  .container_bio {
+    height: 77em;
+  }
   .carousel {    
     display: block;
     width: 99%;
