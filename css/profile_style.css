@@ -308,6 +308,9 @@ textarea {
   .home {
     height: 85em !important;
   }
+  .about_me {
+    height: 155em;
+  }
   .container_carousel {
     height: 52em;
     padding-bottom: 6%;
