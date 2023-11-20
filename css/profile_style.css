@@ -301,7 +301,7 @@ textarea {
     border-radius: 2px;
   }
   main {
-    height: 145em;
+    height: 140em;
     background: #ddeedd;
     margin-bottom: -5em;
   }
@@ -309,11 +309,10 @@ textarea {
     height: 85em !important;
   }
   .about_me {
-    height: 155em;
+    height: 160em !important;
   }
   .container_carousel {
-    height: 52em;
-    padding-bottom: 6%;
+    height: 62em;
     background: #ecfee4;
   }  
   .carousel {    
@@ -334,6 +333,7 @@ textarea {
   }
   .bio {
     padding: 2%;
+    height: 70em;
   }
   .my_pp img {
     margin-left: 26%; 
