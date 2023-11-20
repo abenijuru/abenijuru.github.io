@@ -305,6 +305,9 @@ textarea {
     background: #ddeedd;
     margin-bottom: -5em;
   }
+  .details {
+    height: 83em;
+  }
   .home {
     height: 85em !important;
   }
@@ -355,7 +358,7 @@ textarea {
   }
   .arrows {
     margin-bottom: 4em;
-    margin-left: 0;
+    margin-left: 0.2em;
   }
   .arrows a {
     display: inline;
