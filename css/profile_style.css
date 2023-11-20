@@ -161,10 +161,6 @@ h4 {
   width: 100%;
 }
 
-.contact {
-  height: 100em;
-}
-
 .form_sub {
   display: flex;
   display: block;
@@ -350,7 +346,7 @@ textarea {
   }
   .arrows {
     margin-bottom: 4em;
-    margin-left: /*2em;*/1em;
+    margin-left: 0;
   }
   .arrows a {
     display: inline;
