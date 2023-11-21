@@ -789,7 +789,9 @@ textarea {
   .arrows {
     margin-bottom: 4em;
   }
-  .arrows a {
+  .arrows a {    
+    display: inline;
+    margin-right: 1.75em;
     padding: 2%;
   }
   .form_sub {
