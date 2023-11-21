@@ -574,6 +574,9 @@ textarea {
     height: 87em;
     background: #ddeedd;
   }
+  .about_me {
+    height: 136em;
+  }
   .container_1, .container_2 {
     height: 44em;
   }
