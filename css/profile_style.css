@@ -726,8 +726,8 @@ textarea {
     font-weight: bolder;
   }  
   main {
-    height: 145%;
-    background: #ddeedd;
+    height: 90em;/*
+    background: #ddeedd;*/
     font-size: 125%;
   }
   .container_1, .container_2 {
