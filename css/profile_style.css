@@ -756,6 +756,9 @@ textarea {
     margin-top: -12em;
     margin-right: 5em;
   }
+  .about_me {
+    height: 137em;
+  }
   .action {
     margin-top: 24%;
   }
