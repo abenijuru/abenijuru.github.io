@@ -427,7 +427,7 @@ textarea {
   }
   .active {
     height: 5em;
-    background-color: #cc0000;
+    background-color: #ff4500;
     color: #fff;
     border-radius: 2px;
   }
