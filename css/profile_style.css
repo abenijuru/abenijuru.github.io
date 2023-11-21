@@ -575,7 +575,7 @@ textarea {
     background: #ddeedd;
   }
   .about_me {
-    height: 136em;
+    height: 136em !important;
   }
   .container_1, .container_2 {
     height: 44em;
@@ -591,7 +591,7 @@ textarea {
     margin-right: 2em; 
   }
   .action {
-    margin-top: 28%;
+    margin-top: 30%;
   }
   .container_carousel {
     height: 55em;
