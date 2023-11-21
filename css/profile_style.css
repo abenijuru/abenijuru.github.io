@@ -571,7 +571,7 @@ textarea {
     font-weight: bolder;
   }
   main {
-    height: 102%;
+    height: 87em;
     background: #ddeedd;
   }
   .container_1, .container_2 {
@@ -584,7 +584,7 @@ textarea {
     padding-right: 5%;
   }
   .container_skills {
-    margin-top: -15em;
+    margin-top: -16em;
     margin-right: 2em; 
   }
   .action {
