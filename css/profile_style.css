@@ -435,6 +435,9 @@ textarea {
     height: 99%;
     background: #ddeedd;
   }
+  .about_me {
+    height: 131em;
+  }
   .container_carousel {
     height: 52em;
     padding-bottom: 6%;
