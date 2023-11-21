@@ -254,6 +254,7 @@ textarea {
   background-color: #cadefc;
 }
 
+/*MEDIA QUERIES FOR SMARTPHONES*/
 @media screen and (max-width: 480px) {
   aside, .topnav #myLinks, #brand {
     display: none;
@@ -388,6 +389,7 @@ textarea {
   }
 }
 
+/*MEDIA QUERIES FOR LARGER SMARTPHONES AND SMALLER TABLETS*/
 @media only screen and (min-width: 481px) and (max-width: 768px) {
   aside, .topnav #myLinks, #brand {
     display: none;
@@ -524,6 +526,7 @@ textarea {
   }
 }
 
+/*MEDIA QUERIES FOR LARGER TABLETS AND SMALLER LAPTOPS*/
 @media only screen and (min-width: 769px) and (max-width: 1024px) {
   aside, .icon, .active, #active, #hamburger {
     display: none;
@@ -680,6 +683,7 @@ textarea {
   }
 }
 
+/*MEDIA QUERIES FOR LARGER SCREEN DEVICES, IE DESKTOPS AND MONITORS*/
 @media only screen and (min-width: 1025px) {
   aside, .icon, .active, #active, #hamburger {
     display: none;
