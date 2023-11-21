@@ -532,7 +532,7 @@ textarea {
     width: 100%;
     height: 9em;
     margin-top: -1em;
-    background: #ff4500;
+    background: #ff4500;*/#cc0000;
   }
   #menu:hover {
     color: #fff !important;
@@ -688,7 +688,7 @@ textarea {
     width: 100%;
     height: 9em;
     margin-top: -1em;
-    background: /*#ff4500;*/#cc0000;
+    background: #ff4500;
   }
   #menu:hover {
     color: #fff !important;
