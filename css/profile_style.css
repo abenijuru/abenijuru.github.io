@@ -644,6 +644,8 @@ textarea {
   }
   .arrows {
     margin-bottom: 4em;
+    width: 7em;
+    height: 3em;
   }
   .arrows a {
     display: inline;
