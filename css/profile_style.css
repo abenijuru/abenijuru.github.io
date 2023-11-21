@@ -358,7 +358,7 @@ textarea {
   }
   .arrows a {
     display: inline;
-    margin-right: /*1.75em;*/1em;
+    margin-right: 1em;
     padding: 3%;
   }
   .form_sub {
@@ -427,7 +427,7 @@ textarea {
   }
   .active {
     height: 5em;
-    background-color: /*#ff4500;*/#cc0000;
+    background-color: #cc0000;
     color: #fff;
     border-radius: 2px;
   }
@@ -497,8 +497,8 @@ textarea {
   .form_sub {
     width: 99%;
   }
-  .contact {
-    height: 74.5em;
+  .details {
+    height: 85em !important;
   }
   btn-1, btn-2, 
   input[type=text], 
@@ -525,7 +525,7 @@ textarea {
   }
 }
 
-@media only screen and (min-width: 768px) and (max-width: 1024px) {
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
   aside, .icon, .active, #active, #hamburger {
     display: none;
   }
@@ -678,7 +678,7 @@ textarea {
   }
 }
 
-@media only screen and (min-width: 1024px) {
+@media only screen and (min-width: 1025px) {
   aside, .icon, .active, #active, #hamburger {
     display: none;
   }
