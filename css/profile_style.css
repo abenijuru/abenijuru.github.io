@@ -346,6 +346,7 @@ textarea {
   textarea {
     width: 95%;
   }
+    /*
   footer {
     position: fixed !important;
     bottom: 0 !important;
@@ -358,7 +359,7 @@ textarea {
     margin-right: auto;
     text-align: center;
     padding-top: 2em;
-  }
+  }*/
 }
 
 /*MEDIA QUERIES FOR LARGER SMARTPHONES AND SMALLER TABLETS*/
