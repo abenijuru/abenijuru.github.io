@@ -10,11 +10,9 @@ body {
   font-family: Tahoma, Verdana, sans-serif;
   font-size: 100%;
 }
-
 .icon {
   display: none;
 }
-
 main {
   width: 99%;
   height: 111em;   
@@ -25,20 +23,16 @@ main {
   color: #001861;
   overflow: hidden;
 }
-
 h1 {
   font-size: 1em;
   font-weight: bold;
 }
-
 h2 {
   text-align: center;
 }
-
 h2 {
   padding-top: 2%;
 }
-
 .container_1 {
   display: block;
   width: 70%;
@@ -47,19 +41,16 @@ h2 {
   padding-top: 7%;
   background: #ecfee4;
 }
-
 .intro {  
   padding-top: 39%;
   padding-left: 4%;
   width: 56%;
 }
-
 .presentation {
   text-transform: uppercase;
   font-weight: bold;
   font-size: 1.375em;
 }
-
 .container_2 {
   float: right;
   width: 70%;
@@ -69,27 +60,22 @@ h2 {
   padding-left: 10%;
   background: #ecfee4;
 }
-
 .my_pp img {
   margin-left: 38%; 
   margin-top: 16%;
 }
-
 .container_2 img {
   margin-right: 26%;
   margin-top: 3%;
 }
-
 .container_skills {
   padding-top: 35%;
   float: right;
 }
-
 .my_skills {
   font-weight: bold;     
   font-size: 1.375em;
 }
-
 .container_carousel {
   display: block;
   width: 100%;
@@ -111,18 +97,15 @@ h2 {
   display: block;
   float: left;
 }
-
 aside {
   display: inline-block;
   width: 30%;
   float: right;
 }
-
 .sidebar {
   padding: 2%;
   justify-content: center;
 }
-
 .container_bio {
   display: block;
   border-radius: 0.125em;
@@ -132,14 +115,12 @@ aside {
   background-color: #fff;
   overflow: hidden;
 }
-
 .my_pp {
   display: block;
   width: 100%;
   background: #8aaae5;
   margin-top: 1%;
 }
-
 .bio {
   box-sizing: border-box;
   display: block;
@@ -152,15 +133,12 @@ aside {
   color: #001861;
   transition: 2s ease-in-out;
 }
-
 h4 {
   list-style: none;
 }
-
 .bio:hover {
   width: 100%;
 }
-
 .form_sub {
   display: flex;
   display: block;
@@ -172,13 +150,11 @@ h4 {
   background: #ecfee4;
   width: 80%;
 }
-
 input {
   text-decoration: none;
   padding-left: 2%;
   color: #001861;
 }
-
 input[type=submit] {
   background: #001861;
   color: #fff;
@@ -190,12 +166,10 @@ input[type=submit] {
   margin: 0.25em 0.125em;
   cursor: pointer;
 }
-
 input[type=submit]:hover {
   background: #ff4500;
   color: #001861;
 }
-
 .btn-1, .btn-2 {
   padding: 0.625em 0.375em;
   width: 35.125em;
@@ -207,11 +181,9 @@ input[type=submit]:hover {
   border-radius: 0.375em;
   cursor: pointer;
 }
-
 .btn-1 {
   color: #000;  
 }
-
 .btn-2 {
   background-color: #4f70b5;
   color: white;
@@ -233,11 +205,9 @@ textarea {
   border: 0.0625em solid #8f8f8f;
   border-radius: 0.175em;
 }
-
 .thank_you_p {
   height: 45em;
 }
-
 .last {
   display: block;
   width: 90%;
@@ -249,7 +219,6 @@ textarea {
   padding-left: 3%;
   background: #ecfee4;
 }
-
 .last:hover {
   background-color: #cadefc;
 }
@@ -297,6 +266,9 @@ textarea {
     color: #fff;
     border-radius: 2px;
   }
+  .active {
+    background-color: #ff6347;
+  )
   main {
     height: 140em;
     background: #ddeedd;
